@@ -5,7 +5,7 @@ For general instructions see https://pre-commit.com/
 ## example usage
 
 ```
-  - repo: https://github.com/cathiele/pre-commit-rust
+  - repo: https://github.com/kodemaniak/pre-commit-rust
     rev: v0.1.0
     hooks:
       - id: cargo-fmt
